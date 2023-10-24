@@ -1,0 +1,13 @@
+body {
+  font: 300 14px/1.2 'Public Sans', sans-serif;
+  background-color: #1c1c1c; /* set the background color to a dark shade of gray */
+  color: #000000; /* set the text color to white */
+}
+
+.container-fluid {
+  max-width: 1024px;
+  background-color: #ffffff; /* set the container background color to a slightly lighter shade of gray */
+  border-radius: 5px; /* add a border radius to the container */
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* add a box shadow to the container */
+}
+
